@@ -25,3 +25,5 @@ If a link happens to be more than 5 years old, but still relevant, you will see 
 # 2. Improvement
 ## Top Frameworks
 * [Medium - Abishek](https://medium.com/@abhishekksharma/top-11-frameworks-every-product-manager-should-know-aad46dd37b62)
+## Free Courses
+* [HBS PM 101/102](https://www.hbspm101.com/)
