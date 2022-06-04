@@ -13,6 +13,8 @@ If a link happens to be more than 5 years old, but still relevant, you will see 
 * [Product Question Bank 2](https://www.mypminterview.com/p/google-product-manager-interview-questions-2?s=r)
 * [System Design Question Bank 1](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/)
 * [System Design Question Bank 2](https://astikanand.github.io/techblogs/high-level-system-design/basics)
+## How-To's
+* [Free Code Camp's System Design](https://www.freecodecamp.org/news/how-to-system-design-dda63ed27e26)
 ## Interview Guides
 ### Google
 * [MyPMInterview](https://www.mypminterview.com/p/google-product-manager-interview-guide-1?s=r)
