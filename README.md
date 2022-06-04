@@ -9,8 +9,9 @@ If a link happens to be more than 5 years old, but still relevant, you will see 
 ## Mock Videos
 * [Prepfully](https://prepfully.com/watch-mock-interviews)
 ## Practice Questions
-* [Question Bank 1](https://www.mypminterview.com/p/google-product-manager-interview-questions-1?s=r)
-* [Question Bank 2](https://www.mypminterview.com/p/google-product-manager-interview-questions-2?s=r)
+* [Product Question Bank 1](https://www.mypminterview.com/p/google-product-manager-interview-questions-1?s=r)
+* [Product Question Bank 2](https://www.mypminterview.com/p/google-product-manager-interview-questions-2?s=r)
+* [System Design Question Bank](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/)
 ## Interview Guides
 ### Google
 * [MyPMInterview](https://www.mypminterview.com/p/google-product-manager-interview-guide-1?s=r)
