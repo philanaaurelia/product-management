@@ -6,10 +6,11 @@ This is a list of available resources I have found helpful to break into product
 If a link happens to be more than 5 years old, but still relevant, you will see a cross (✝) at the end of the link.
 
 # 1. Interviewing
-## Videos
+## Mock Videos
 * [Prepfully](https://prepfully.com/watch-mock-interviews)
-## Product Design
-* 
+## Practice Questions
+* [Question Bank 1](https://www.mypminterview.com/p/google-product-manager-interview-questions-1?s=r)
+* [Question Bank 2](https://www.mypminterview.com/p/google-product-manager-interview-questions-2?s=r)
 ## Execution / Metrics
 ## Strategy
 ## Technical Skills
