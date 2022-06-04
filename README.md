@@ -14,5 +14,6 @@ If a link happens to be more than 5 years old, but still relevant, you will see 
 ## Interview Guides
 ### Google
 * [MyPMInterview](https://www.mypminterview.com/p/google-product-manager-interview-guide-1?s=r)
+* [RocketBlocks](https://www.rocketblocks.me/blog/google-pm-interview.php)
 ## Strategy
 ## Technical Skills
