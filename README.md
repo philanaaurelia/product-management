@@ -11,6 +11,8 @@ If a link happens to be more than 5 years old, but still relevant, you will see 
 ## Practice Questions
 * [Question Bank 1](https://www.mypminterview.com/p/google-product-manager-interview-questions-1?s=r)
 * [Question Bank 2](https://www.mypminterview.com/p/google-product-manager-interview-questions-2?s=r)
-## Execution / Metrics
+## Interview Guides
+### Google
+* [MyPMInterview](https://www.mypminterview.com/p/google-product-manager-interview-guide-1?s=r)
 ## Strategy
 ## Technical Skills
