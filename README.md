@@ -17,5 +17,5 @@ If a link happens to be more than 5 years old, but still relevant, you will see 
 * [MyPMInterview](https://www.mypminterview.com/p/google-product-manager-interview-guide-1?s=r)
 * [RocketBlocks](https://www.rocketblocks.me/blog/google-pm-interview.php)
 * [Exponent](https://blog.tryexponent.com/google-product-strategy-interview/)
-## Strategy
-## Technical Skills
+* [iGotAnOffer](https://igotanoffer.com/blogs/product-manager/google-product-manager-interview)
+
