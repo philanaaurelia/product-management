@@ -32,3 +32,6 @@ If a link happens to be more than 5 years old, but still relevant, you will see 
 # 3. Other
 ## PM Resources
 * [Product Hired List](https://github.com/ProductHired/open-product-management)
+## Day-In-The-Life
+* [Meta PM](https://www.youtube.com/watch?v=yfNe0z1uoss)
+* [Google PM](https://www.youtube.com/watch?v=F76mqFyrZNo)
