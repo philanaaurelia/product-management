@@ -35,3 +35,4 @@ If a link happens to be more than 5 years old, but still relevant, you will see 
 ## Day-In-The-Life
 * [Meta PM](https://www.youtube.com/watch?v=yfNe0z1uoss)
 * [Google PM](https://www.youtube.com/watch?v=F76mqFyrZNo)
+* [Amazon PM](https://www.youtube.com/watch?v=CpWw1QNaXRI)
