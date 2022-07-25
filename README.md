@@ -33,6 +33,5 @@ If a link happens to be more than 5 years old, but still relevant, you will see 
 ## PM Resources
 * [Product Hired List](https://github.com/ProductHired/open-product-management)
 ## Day-In-The-Life
-* [Meta PM](https://www.youtube.com/watch?v=yfNe0z1uoss)
-* [Google PM](https://www.youtube.com/watch?v=F76mqFyrZNo)
-* [Amazon PM](https://www.youtube.com/watch?v=CpWw1QNaXRI)
+* [10+ Companies Playlist](https://youtube.com/playlist?list=PLS09GOPjB13rHAhgiULC08OhTCsoc8lWp)
+* [Meta PM](https://youtube.com/playlist?list=PLS09GOPjB13rHAhgiULC08OhTCsoc8lWp)
