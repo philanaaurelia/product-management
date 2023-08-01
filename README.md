@@ -18,7 +18,7 @@ If a link happens to be more than 5 years old, but still relevant, you will see 
 * [Interviews - Stellar Peers](https://stellarpeers.com/#jump-frameworks)
 ## Interview Guides
 ### Google
-* [MyPMInterview](https://www.mypminterview.com/p/google-product-manager-interview-guide-1?s=r)
+* [MyPMInterview](https://www.mypminterview.com/p/google-product-manager-interview-guide-1?s=r) Behind a pay-wall as of 2023
 * [RocketBlocks](https://www.rocketblocks.me/blog/google-pm-interview.php)
 * [Exponent](https://blog.tryexponent.com/google-product-strategy-interview/)
 * [iGotAnOffer](https://igotanoffer.com/blogs/product-manager/google-product-manager-interview)
