@@ -7,7 +7,9 @@ If a link happens to be more than 5 years old, but still relevant, you will see 
 ## Mock Videos
 * [Prepfully](https://prepfully.com/watch-mock-interviews)
 * [Product Sense - Meta](https://youtu.be/se6Soyi2k0U)
-* [Execution - Meta](https://youtu.be/3Qx9cVRJ06I)
+* [Execution (Meta) - Execution](https://youtu.be/3Qx9cVRJ06I)
+* [Execution (Meta) - Execution 2](https://youtu.be/_FANcClDHa8)
+* [Exectution (Meta) - Troubleshooting](https://youtu.be/4Qm3S4tQqtU)
 ## Practice Questions
 * [Product Question Bank 1](https://www.mypminterview.com/p/google-product-manager-interview-questions-1?s=r)
 * [Product Question Bank 2](https://www.mypminterview.com/p/google-product-manager-interview-questions-2?s=r)
